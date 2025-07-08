@@ -9,7 +9,6 @@ Kompleksowy projekt analizy i predykcji cen nieruchomości wykorzystujący róż
 - Analiza danych nieruchomości i identyfikacja czynników wpływających na cenę
 - Porównanie skuteczności różnych algorytmów Machine Learning
 - Optymalizacja hiperparametrów dla uzyskania najlepszych wyników
-- Stworzenie interaktywnego narzędzia do przewidywania cen
 
 ## Dataset
 
@@ -75,7 +74,7 @@ Projekt zawiera bogate wizualizacje:
 
 ### 1. Klonowanie repozytorium
 ```bash
-git clone https://github.com/franeklasinski/house-price-predictor-ml.git
+git clone https://github.com/franeklasinski/house-price-predictor_ml.git
 cd house-price-predictor
 ```
 
